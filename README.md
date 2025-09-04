@@ -8,30 +8,39 @@ To The goal of this experiment is to design and develop an AI-powered chatbot th
 1.Define Objective
 
 Set the goal of building a chatbot for handling retail customer inquiries.
+
 2.Collect Data
 
 Gather FAQs, customer support logs, product catalogs, and synthetic queries.
+
 3.Preprocess Data
 
 Clean, normalize, and annotate queries with intents, slots, and sentiments.
+
 4.Design Prompts
 
 Create system prompts, zero-shot, few-shot, chain-of-thought, and retrieval-augmented prompts.
+
 5.Develop Prototype
 
 Integrate prompts into a chatbot using an AI model API (e.g., GPT, Claude, Bard).
+
 6.Test Chatbot
 
 Run sample customer queries and log chatbot responses with metadata.
+
 7.Evaluate Performance
 
 Measure intent accuracy, slot extraction F1 score, response latency, and escalation rate.
+
 8.Human Review
 
 Assess clarity, tone, and helpfulness of responses on a rating scale.
+
 9.Analyze Results
 
 Compare performance across different prompting techniques and identify errors.
+
 10.Refine & Report
 
 Improve prompts, retrain if needed, and generate a structured multi-page report with findings and recommendations.
